@@ -7,14 +7,7 @@ To get started, you can check `ReducedExample.java`, which demonstrates the mini
 However, this approach is not reusable. After understanding the basics, it's recommended to explore `BasicFirstExample.java`,  
 which follows a structured and reusable coding approach to create private cloud simulations effectively.  
 
-## Project Contributors  
 
-This project was developed and maintained by:  
-- Bishaw  
-- Mintesnot  
-- Eyob  
-- Emebet  
-- Sosina  
 
 ## Running Examples  
 
