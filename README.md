@@ -1,29 +1,25 @@
-# CloudSim Plus simulation examples
+CloudSim Plus Examples is a project that demonstrates various simulation scenarios using
+CloudSim Plus. This project provides multiple examples to help users understand cloud
+simulations and build their own customized models. The examples include both fundamental
+and advanced simulation cases, making it easier to experiment with different cloud computing
+architectures and policies.
 
-This project contains various CloudSim Plus examples, including both inherited ones from CloudSim and new ones showcasing exclusive features.  
-These examples are structured with meaningful names, making it easier to understand their purpose before diving into the code.  
+Project Overview
 
-To get started, you can check `ReducedExample.java`, which demonstrates the minimum code required to build private cloud simulations using CloudSim Plus.  
-However, this approach is not reusable. After understanding the basics, it's recommended to explore `BasicFirstExample.java`,  
-which follows a structured and reusable coding approach to create private cloud simulations effectively.  
+CloudSim Plus is a powerful Java-based framework for modeling and simulating cloud computing
+infrastructures. It extends the capabilities of CloudSim by improving code structure, usability, and
+maintainability. This project provides ready-to-use examples that showcase various simulation
+functionalities, allowing users to get started quickly and understand how cloud simulations work.
 
+Key Features
 
-
-## Running Examples  
-
-There are two ways to run the examples in this project:
-
-### 1. Using an IDE  
-
-- Open or import the project in your preferred IDE.  
-- Locate the examples inside the `org.cloudsimplus.examples` package.  
-- Run any class within this package to execute a specific example.  
-- To create custom simulations, add new classes inside this project.  
-
-### 2. Using the bootstrap script  
-
-- Navigate to the project's root directory in a terminal.  
-- Run an example using the command:  
-  ```bash
+●​ Pre-built Simulation Examples: The project contains multiple structured examples that
+cover different cloud simulation scenarios.
+●​ Structured and Reusable Code: Unlike simple examples that keep all code in a main()
+method, these examples follow a structured approach for reusability and scalability.
+●​ Customization and Extensibility: Users can modify and extend the examples to fit their
+specific simulation needs.
+●​ Cloud Resource Management: Examples include datacenter creation, VM provisioning,
+and task scheduling policies.
   sh bootstrap.sh package.ExampleClassName
 
