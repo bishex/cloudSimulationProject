@@ -1,4 +1,4 @@
-# CloudSim Plus Examples  
+# CloudSim Plus simulation examples
 
 This project contains various CloudSim Plus examples, including both inherited ones from CloudSim and new ones showcasing exclusive features.  
 These examples are structured with meaningful names, making it easier to understand their purpose before diving into the code.  
